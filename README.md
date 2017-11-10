@@ -1,2 +1,5 @@
 # helloworld
 I had boiled egg and coffee for breakfast
+Aiming to be a full stack developer. My Education background is in Business Administration, majored in Marketing. I attended College of Business Education, Tanzania. I also took general courses at Glendale Community College in Arizona. I have many years of experience as an Administrative /Project Assistant. I currently work at a hospital facility as a Revenue Cycle Specialist for Orthotics and Prosthetics Proffesionals. My role involves reviewing clinician's documentation and make sure the codes billed are correct per payer's policy. I constantly have to keep up to date with different payer's policies and update staff in the form of powerpoint presentation. For updated that impacts other department within our organization, I would create a text file and have our web developers update our intranet site. Although, I have always wanted to be able to do that proffesionally. 
+
+on a personal note. I have to have my cup of coffee first thing in the morning. I also love "good" action movies! 
